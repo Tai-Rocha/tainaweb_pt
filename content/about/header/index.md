@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Olá, muito prazer, eu me chamo Tainá!
+  Muito prazer, me chamo Tainá!
 ---
 
 <!-- this is a subheadline -->
