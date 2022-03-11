@@ -1,7 +1,7 @@
 ---
 title: "Tainá Rocha"
 subtitle: ""
-description: "Olá, meu nome é Tainá! Sou pesquisadora interessada em tudo relacionado a biodiversidade, mudanças globais, bioinformática, ciência de dados, programação em R e Phyton. Este site apresenta versão em inglês e portugês, futuramente gostaria de disponibilzar todos meus contúdos em espanhol também  #rstats  <br>
+description: "Olá, sejam bem-vindes! Neste blog você encontrar conteúdos relacionado a biodiversidade, mudanças globais, bioinformática, ciência de dados, programação em R e Phyton. Este site apresenta versão em inglês e portugês, futuramente gostaria de disponibilzar todos meus contúdos em espanhol também  #rstats  <br>
 English, Português <br>" 
 images:
   - img/home_2.jpg

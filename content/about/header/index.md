@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, I am Tainá!
+  Olá, eu sou a Tainá!
 ---
 
 <!-- this is a subheadline -->
