@@ -1,6 +1,6 @@
 ---
 ## Configure page content in wide column
-title: "A little bit more about me" # leave blank to exclude
+title: "Um pouco mais sobre mim" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 number_categories: 3 # set to zero to exclude
 show_intro: true
