@@ -18,9 +18,9 @@ layout: single
 
 ## Bem videx a primeira postagem da seção blog! 
 
-Esta semana foi marcada por um importante fato, pricinpalemnte para comunidade artística brasileira, mas que contempla e alegra a todo Brasil! A cantora Anitta atingiu o top 1 do Spotify, uma das plataformas de streaming de áudio e mídia mais usadas mundialmente! A brasileira é a primeira a atingir esta posição no ranking global do Spotify.
+Esta semana foi marcada por um importante fato, principalmente para comunidade artística brasileira, mas que contempla e alegra a todo Brasil! A cantora Anitta atingiu a primeira posição do Spotify, uma das plataformas de streaming de áudio e mídia mais usadas mundialmente! A brasileira é a primeira a atingir essa posição no ranking global do Spotify.
 
-Por isso nesta postagem, resolvi explorar de forma bem básica (por enquanto) algumas ferramntas para análise de dados musicais usando o R, para tentar identificar a trajetoria de popularidade das músicas da Anitta ao longo do tempo, e que fatores podem estar relacionados com a  popularidade (lembrando que correlaçõa não é causalidade). Esse análise só foi possível por que esses dados existem e podem ser acessados pelo [Spotify for developers](https://developer.spotify.com/), a API do Spotify, onde podemos solicitar informaçoes que são devolvidadas através de metadados JSON com os dados sobre artistas, álbunsl faixas, diretamente do Spotify Data Catalog. Também é possível obter dados de usuário, como listas de reprodução e músicas que o usuário salva na biblioteca. Em postagens futuras na seção de tutoriais, pretendo fazer um passo-a-posso de como criar uma conta e gerar as credenciase um turoail mais cmpleto de como fazer essas análises em R.  
+Por isso, nesta postagem resolvi explorar de forma bem básica (por enquanto) algumas ferramentas para análise de dados musicais usando o R, com o objetivo de identificar a trajetoria da popularidade das músicas da Anitta ao longo do tempo, e que fatores podem estar relacionados com a popularidade (lembrando que correlaçõa não é causalidade). Esse análise só foi possível porque esses dados existem e podem ser acessados pelo [Spotify for developers](https://developer.spotify.com/), a API do Spotify, onde podemos solicitar informações que são devolvidas através de metadados JSON com os dados de artistas, álbuns faixas, diretamente do Spotify Data Catalog. Também é possível obter dados de usuário, como listas de reprodução e músicas que o usuário salva na biblioteca. Em postagens futuras, na seção de tutoriais, pretendo fazer um passo a posso de como criar uma conta e gerar as credenciais e um outro tutorial completo de como fazer essas análises em R.  
 
 #### Analisando as informações da Playlist "This Is Aniita" do Spotify
 
@@ -80,11 +80,11 @@ Considerando score maior que 80
 <img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
 
 #### Relações entre fatore como...
-Velocidade (speechiness), músicas acúticas (acousticness) e outros. Variando de -1 a 1, onde em 0 não há correlações evidentes e em -1 ou 1 há correlações. Sempre bom lembrar que : correlaçõa não implica em casualidade :blush: 
+Velocidade (speechiness), músicas acústicas (acousticness) e outros. Variando de -1 a 1, onde em 0 não há correlações evidentes e em -1 ou 1 há correlações. Sempre bom lembrar que : correlação não implica em causalidade :blush: 
 
 <img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-3-1.png" width="672" />
 
 ## Então vamos de música ?
 
 
-![](https://www.youtube.com/watch?v=q5R5XZgkXWA{width="90%"}
+<a href="https://www.youtube.com/watch?v=q5R5XZgkXWA" style="color: blue; text-decoration: underline;text-decoration-style: dotted;">Envolver, Anitta</a> 
