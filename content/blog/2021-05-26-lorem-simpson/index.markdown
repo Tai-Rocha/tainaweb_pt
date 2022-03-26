@@ -22,14 +22,14 @@ Esta semana foi marcada por um importante fato, pricinpalemnte para comunidade a
 
 Por isso nesta postagem, resolvi explorar de forma bem básica (por enquanto) algumas ferramntas para análise de dados musicais usando o R, para tentar identificar a trajetoria de popularidade das músicas da Anitta ao longo do tempo, e que fatores podem estar relacionados com a  popularidade (lembrando que correlaçõa não é causalidade). Esse análise só foi possível por que esses dados existem e podem ser acessados pelo [Spotify for developers](https://developer.spotify.com/), a API do Spotify, onde podemos solicitar informaçoes que são devolvidadas através de metadados JSON com os dados sobre artistas, álbunsl faixas, diretamente do Spotify Data Catalog. Também é possível obter dados de usuário, como listas de reprodução e músicas que o usuário salva na biblioteca. Em postagens futuras na seção de tutoriais, pretendo fazer um passo-a-posso de como criar uma conta e gerar as credenciase um turoail mais cmpleto de como fazer essas análises em R.  
 
-## Analisando as informações da Playlist "This Is Aniita" do Spotify
+##### Analisando as informações da Playlist "This Is Aniita" do Spotify
 
 
 
 
 
 
-## A tablea abaixo sintetiza algumas estatísticas que nos ajudam a qualificar o padrão de variação do score de popularidade. O score de popularidade varia de 0 a 100.
+A tablea abaixo sintetiza algumas estatísticas que nos ajudam a qualificar o padrão de variação do score de popularidade. O score de popularidade varia de 0 a 100.
 
 
 ```
@@ -41,11 +41,12 @@ Por isso nesta postagem, resolvi explorar de forma bem básica (por enquanto) al
 
 
 <div class="figure">
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" alt="Histograma de contagem da variável Score de Popularidade" width="672" />
+<img src="{{< blogdown/postref >}}index_files/figure-html/fig-1.png" alt="Histograma de contagem da variável Score de Popularidade" width="672" />
 <p class="caption">Figure 1: Histograma de contagem da variável Score de Popularidade</p>
 </div>
 
-## Música mais popular atualmente (considerando score maior que 80)
+#### Música mais popular atualmente 
+Considerando score maior que 80
 
 <table>
  <thead>
@@ -74,12 +75,13 @@ Por isso nesta postagem, resolvi explorar de forma bem básica (por enquanto) al
 </tbody>
 </table>
 
-## Popularidade das  músicas ao longo dos anos 
+#### Popularidade das  músicas ao longo dos anos 
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
+
+###### Relações entre fatore como...
+Velocidade (speechiness), músicas acúticas (acousticness) e outros. Variando de -1 a 1, onde em 0 não há correlações evidentes e em -1 ou 1 há correlações. Sempre bom lembrar que : correlaçõa não implica em casualidade :blush: 
+
 <img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-3-1.png" width="672" />
-
-## Relações entre fatore como velocidade (speechiness), músicas acúticas (acousticness) e outros. Variando de -1 a 1, onde em 0 não há correlações evidentes e em -1 ou 1 há correlações. Sempre bom lembrar que : correlaçõa não implica em casualidade :blush: 
-
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-4-1.png" width="672" />
 
 ## Então vamos de música ?
 

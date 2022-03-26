@@ -47,7 +47,7 @@ anitta <- get_artist_audio_features(
 )
 ```
 
-##### A tablea abaixo sintetiza algumas estatísticas que nos ajudam a qualificar o padrão de variação do score de popularidade. O score de popularidade varia de 0 a 100.
+A tablea abaixo sintetiza algumas estatísticas que nos ajudam a qualificar o padrão de variação do score de popularidade. O score de popularidade varia de 0 a 100.
 
 ```{r pegando a laylist }
 library(corrr)
@@ -70,7 +70,7 @@ anitta_todas|>
 ```
 
 
-```{r, fig.cap="Histograma de contagem da variável Score de Popularidade"}
+```{r, fig.cap="Histograma de contagem da variável Score de Popularidade", fig}
 
 anitta_todas |> 
   ggplot(aes(x = track.popularity)) + 
@@ -82,7 +82,8 @@ anitta_todas |>
 
 ```
 
-#### Música mais popular atualmente (considerando score maior que 80)
+#### Música mais popular atualmente 
+Considerando score maior que 80
 
 ```{r}
 
@@ -125,7 +126,8 @@ media_de_score_por_ano |>
   ggtitle("Popularidade das músicas ao longo do tempo")
 ```
 
-###### Relações entre fatore como velocidade (speechiness), músicas acúticas (acousticness) e outros. Variando de -1 a 1, onde em 0 não há correlações evidentes e em -1 ou 1 há correlações. Sempre bom lembrar que : correlaçõa não implica em casualidade :blush: 
+###### Relações entre fatore como...
+Velocidade (speechiness), músicas acúticas (acousticness) e outros. Variando de -1 a 1, onde em 0 não há correlações evidentes e em -1 ou 1 há correlações. Sempre bom lembrar que : correlaçõa não implica em casualidade :blush: 
 
 ```{r}
 anitta_todas |> 
