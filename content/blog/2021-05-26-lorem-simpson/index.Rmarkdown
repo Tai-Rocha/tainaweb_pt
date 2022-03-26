@@ -65,7 +65,7 @@ anitta_todas|>
     `Média` = mean(track.popularity),
     `Mediana` = median(track.popularity),
     `Desvio Padrão` = sd(track.popularity),
-    `Coeficiente de Variação` = `Desvio Padrão do Score`/`Média do Score`
+    `Coeficiente de Variação` = `Desvio Padrão`/`Média`
   )
 
 ```
