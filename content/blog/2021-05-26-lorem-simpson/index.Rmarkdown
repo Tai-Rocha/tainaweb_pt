@@ -128,7 +128,7 @@ media_de_score_por_ano |>
 ```
 
 #### Relações entre fatore como...
-Velocidade (speechiness), músicas acúticas (acousticness) e outros. Variando de -1 a 1, onde em 0 não há correlações evidentes e em -1 ou 1 há correlações. Sempre bom lembrar que : correlaçõa não implica em casualidade :blush: 
+Velocidade (speechiness), músicas acúticas (acousticness) e outros. Variando de -1 a 1, onde em 0 não há correlações evidentes e em -1 ou 1 há correlações. Sempre bom lembrar que : correlaçõa não implica em causalidade :blush: 
 
 ```{r}
 anitta_todas |> 
