@@ -13,7 +13,7 @@ intro: |
  </div>
 show_outro: true 
 outro: |
-  <i class="fas fa-mug-hot pr2"></i>If my blog has helped you, you can [buy me a coffee](https://ko-fi.com/)!
+  <i class="fas fa-mug-hot pr2"></i>Se meu blog te ajudou, você pode [me pagar um café](https://ko-fi.com/)!
 ---
 
 ** index doesn't contain a body, just front matter above.
