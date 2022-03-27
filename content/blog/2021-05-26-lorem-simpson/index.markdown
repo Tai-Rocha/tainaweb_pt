@@ -87,5 +87,6 @@ Velocidade (speechiness), músicas acústicas (acousticness) e outros. Variando 
 ## Então vamos de música ?
 
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=q5R5XZgkXWA" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q5R5XZgkXWA" frameborder="0" allowfullscreen></iframe>
 
