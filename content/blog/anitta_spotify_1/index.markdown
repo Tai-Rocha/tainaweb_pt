@@ -16,7 +16,7 @@ layout: single
 
 
 
-## Bem videx a primeira postagem da seção blog! 
+## bem-vindx! a primeira postagem da seção blog! 
 
 Esta semana foi marcada por um importante fato, principalmente para comunidade artística brasileira, mas que contempla e alegra a todo Brasil! A cantora Anitta atingiu a primeira posição do Spotify, uma das plataformas de streaming de áudio e mídia mais usadas mundialmente! Anitta é a primeira brasileira a atingir essa posição no ranking global do Spotify.
 
