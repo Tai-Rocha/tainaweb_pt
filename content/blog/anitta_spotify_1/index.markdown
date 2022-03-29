@@ -47,7 +47,7 @@ Uma vez que o score de popularidade varia de 0 a 100,  a média nos revela uma p
 <img src="{{< blogdown/postref >}}index_files/figure-html/fig-1.png" alt="Histograma de contagem da variável Score de Popularidade" width="672" />
 <p class="caption">Figure 1: Histograma de contagem da variável Score de Popularidade</p>
 </div>
-Já o histograma nos revela alguns detalhes a mais do que média. A maioria da músicas tem score popularidade na casa dos 60. Poucas músicas (engtre 0-4) com score 0 e menos de 4 de músicas com score na cass dos 90. 
+Já o histograma nos revela alguns detalhes a mais do que a média. A maioria da músicas tem score de popularidade na casa dos 60. Poucas músicas (engtre 0-4) com score 0 e menos de 4 músicas com score na casa dos 90. 
 
 #### Músicas mais populares atualmente 
 Considerando score maior que 80
@@ -85,7 +85,7 @@ Considerando score maior que 80
 
 #### Popularidade das  músicas ao longo dos anos 
 <img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
-A score de popularidade no geral aumentou ao longo do tempo. No entanto, entre 2015 e 2016 algumas músicas atingiram o score na casa dos 60 seguido de uma queda e subindo novamente depois de 2017.
+A score de popularidade no geral aumentou ao longo do tempo. No entanto, entre 2015 e 2016 algumas músicas atingiram o score na casa dos 60, seguido de uma queda e subindo novamente depois de 2017.
 
 #### Relações entre fatore como:
 Velocidade (speechiness), músicas acústicas (acousticness) e outros. Variando de -1 a 1, onde em 0 não há correlações evidentes e em -1 ou 1 há correlações. Sempre bom lembrar que : correlação não implica em causalidade. :blush: 
