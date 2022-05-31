@@ -1,7 +1,7 @@
 ---
 title: Palestras
 description: |
-  Selecionei aqui algumas palestras.
+  Selecionei aqui algumas palestras
 author: "Tainá Rocha"
 show_post_thumbnail: true
 show_author_byline: true
