@@ -1,8 +1,8 @@
 ---
-title: Talks that Last
+title: Palestras
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
-author: "The R Markdown Team @RStudio"
+  Selecionei aqui algumas palestras.
+author: "Tainá Rocha"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true

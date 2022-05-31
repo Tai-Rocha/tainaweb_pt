@@ -1,11 +1,11 @@
 ---
-title: "VI International Seminar on Statistics with R"
+title: "VI Seminário Internacional de Estatística com R"
 subtitle: "rgee: um pacote R para acessar o Google Earth Engine"
-excerpt: "Google Earth Engine (GEE) is a cloud platform that hosts large volumes of geospatial data. It offers high-performance services for large analyses. However, the infrastructure is in JavaScript or Python. The rgee package is a new alternative to accessing the GEE platform in the R language. Therefore, in this presentation, I will introduce the package to popularize this access through R. I talk: 
+excerpt: "O Google Earth Engine (GEE) é uma plataforma em nuvem que hospeda grandes volumes de dados geoespaciais, oferecendo também uma infraestrutura que possibilita análises  de alta performance. No entanto, a  infraestrutura  é em JavaScript ou Python. O pacote rgee é uma nova alternativa ao acesso à plataforma GEE na linguagem R. Portanto, nesta apresentação teremos uma introdução ao pacote rgee para popularizar este acesso via R. Veremos:
 
-1- Installations
-2- Basic functions and package syntax
-3- Case studies"
+1- Instalações necessárias
+2- Funções básicas e sintaxe do pacote
+3- Estudos de caso"
 date: 2022-05-05
 date_end: "2022-05-05"
 show_post_time: false

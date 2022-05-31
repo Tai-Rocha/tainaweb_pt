@@ -1,11 +1,11 @@
 ---
-title: "Challenges of digital transformation in teaching and research"
-subtitle: "Connecting data and experiences: Biodiversity, Information and Communication Technologies in Brazil"
+title: "Conectando dados e experiências: Biodiversidade, Tecnologias da Informação e Comunicação no Brasil"
+subtitle: "Desafios da transformação digital no ensino e na pesquisa"
 excerpt: "modler"
 date: 2019-08-26
 date_end: "2019-08-28"
 author: "Tainá Rocha"
-location: "DF, Brazil"
+location: "DF, Brasil"
 draft: false
 # layout options: single, single-sidebar
 layout: single

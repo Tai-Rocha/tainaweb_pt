@@ -1,7 +1,7 @@
 ---
 title: "GLOBAL LAND-USE AND LAND-COVER DATA"
 subtitle: "HISTORICAL, CURRENT AND FUTURE SCENARIOS"
-excerpt: "Paper talk"
+excerpt: "Apresentação do artigo"
 date: 2020-12-14
 date_end: "2021-10-01"
 show_post_time: false
