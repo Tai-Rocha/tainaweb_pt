@@ -7,8 +7,8 @@ show_intro: true
 intro: |
  <div style="text-align: justify"> 
   ### O que estou fazendo ultimamente? 
-  Além da pesquisa em bidoversidade e mudanças globais, sou um entusiasta da programação R (#rstats) ! Também amo Github e seus recursos. 
-  Gosto de praia, natureza, boas cervejas (ou bons vinhos), boas comidas e bons livros (TAG lover <3).
+  Além da pesquisa em biodiversidade e mudanças globais, sou um entusiasta da programação R (#rstats) ! Também amo Github e seus recursos. 
+  Gosto de praia, natureza, fotografar passarinhos, boas cervejas (e bons vinhos), boas comidas, livros (TAG lover <3), conteúdos aleatórios de TECH e não vivo sem música.
 
   Lutando contra o governo de Bolsonaro!
 
