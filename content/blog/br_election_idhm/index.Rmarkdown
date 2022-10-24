@@ -1,0 +1,81 @@
+---
+title: "O que dizem os dados eleitoriais da região Nordeste e Norte ?"
+subtitle: "Um voto sábio"
+excerpt: "Eleições Presidenciais 2022"
+date: 2022-10-24
+author: "Tainá Rocha"
+draft: false
+images:
+series:
+tags:
+categories:
+layout: single
+---
+
+{{< here >}}
+
+
+
+### Eleições presidenciais e dados do Índice de Desenvolvimento Humano Municipal (IDHM) 
+
+O Brasil está diante de uma das eleições mais importantes da história de sua República. Assim como em outros lugares do mundo, nossa democracia é ameaçada pela onda global neofascista. Aqui, o representante deste projeto de poder antidemocrático é Jair Messias Bolsonaro, que ao longo dos últimos quatro anos atuou como um antiestadista, negando a pandemia, menosprezando milhares de brasileiros que perderam familiares e entes queridos. Além de conhecidamente ser um presidente negacionista da ciência atuando de forma criminosa nos temas científicos ambientais¹ ². 
+
+Felizmente um grande número de brasileiros é contra o projeto de poder bolsonarista. Os resultados do primeiro turno, mostram a força do ex presidente Luis Inácio Lula da Silva (Lula) em grande parte da região Norte e principalmente na região Nordeste, onde teve a maioria dos votos nos municípios (Fig. 1).
+<br>
+<br>
+
+```{r FIG1, echo= FALSE, include=TRUE}
+knitr::include_graphics("Candidatos_MUNI.png")
+```
+<br>
+
+Figura 1. Resultado do candidato vencedor por municípios brasileiros no primeiro turno. [Tabela de resultados](https://docs.google.com/spreadsheets/d/1zMBi9Ta16bZgljcwpjEqXz6lj02TzDPA37QaKrRtqx8/edit#gid=1942741078) obtidas em [Dados Finos](https://www.dadosfinos.info/) .
+<br>
+<br>
+
+Sem nenhum cuidado ou traquejo, Bolsonaro atribuiu o resultado ao analfabetismo do povo nordestino e após a infeliz declaração, ataques preconceituosos e xingamentos emergiram pelas redes sociais contra os nordestinos. No entanto, os dados do Índice de Desenvolvimento Humano Municipal (IDHM) contam uma outra história. E ao que tudo indica, nordestinos principalmente, votam sabiamente.
+<br>
+<br>
+ 
+```{r FIG2, echo= FALSE, include=TRUE}
+knitr::include_graphics("intercetp_img_1.png")
+```
+<br>
+
+Figura 2. Declações pejorativas de Bolsonaro. Imagem obtida no site [The Intecept Brasil](https://theintercept.com/2022/10/11/imprensa-distorce-estatisticas-classismo-xenofobia-bolsonaro/) .
+<br>
+<br>
+Norte e Nordeste foram marcadas pelos menores índices de desenvolvimento humano (IDH e IDHM*) do Brasil, evidenciando o descaso dos governos com estas regiões (Fig. 3). Os baixos índices de IDH/IDHM sofreram mudanças  importantes ao longo do governo do ex presidente Lula, principalmente nestas regiões (Fig. 2), reflexo das muitas  políticas públicas que beneficiaram Norte e Nordeste. Programas como fome zero³, bolsa família³,  aceleração do crescimento  (PAC) ⁴ , além das universidades e institutos federais criados nessas regiões⁶ ⁷ entre outras políticas públicas mudaram a vida de muitos brasileiros. Apesar das distorções midiáticas e fake news, os feitos do governo Lula à qualidade vida da população foram evidentes e o suficiente para manter seu favoritismo.
+
+Você sabia que IDHM é um ajuste metodológico do IDH, adaptado ao Brasil? ⁸ ⁹ Ele avalia os dados de cada município considerando saúde, educação e renda. Quer entender melhor esses índices? Veja as referências 8 e 9.
+
+<br>
+<br>
+```{r FIG3,echo= FALSE, include=TRUE}
+
+knitr::include_graphics("featured.png")
+```
+Figura 3. IDHM por municípios nos anos 2000 e 2010. 
+
+
+
+Sou nascida e criada em Belém do Pará, assim como minha mãe e avó materna. Filha de pai nordestino (piauiense) e avós paternos  igualmente nordestinos. Ingressei em 2006 na Universidade Federal do Pará (licenciatura biologia), no campus do interior (Bragança-PA),  onde também fiz mestrado em 2010 (biologia ambiental). Segui para doutorado (zoologia) pelo Museu paraense Emílio Goeldi em 2013 já em Belém na capital.  Sou parte da estatística que é fruto das políticas públicas do Governo Lula. Dia 30 de Outubro de 2022 eu poderia dizer que é a minha razão imparcial, baseada em dados e estatísticas, que votará pela democracia. Mas tenho uma gratidão enorme por Lula, uma dia quero dizer isso pessoalmente a ele. Meu voto é de gratidão.
+
+
+### Referências
+¹ Escobar, H. (2021). [A hostile environment. Brazilian scientists face rising attacks from Bolsonaro’s regime](https://www.science.org/content/article/hostile-environment-brazilian-scientists-face-rising-attacks-bolsonaro-s-regime). Science.
+
+² Rodrigues, M. (2022). [Bolsonaro's troubled legacy for science, health and the environment](https://www.nature.com/articles/d41586-022-03038-3). Nature, 609(7929), 890-891.
+
+³ Hall, A. (2006). [From Fome Zero to Bolsa Família: social policies and poverty alleviation under Lula](https://www.cambridge.org/core/journals/journal-of-latin-american-studies/article/abs/from-fome-zero-to-bolsa-familia-social-policies-and-poverty-alleviation-under-lula/19B18EF8AC1575087A3242C540B08DF1). Journal of Latin American Studies, 38(4), 689-709.
+
+⁴ Deporte, H. F. S. (2011). [A política de crescimento econômico do Governo Lula: o Programa de Aceleração do Crescimento-PAC](https://repositorio.pucsp.br/bitstream/handle/9151/1/Henrique%20Fernando%20Suini%20Deporte.pdf).
+
+⁶ Aguiar, V. (2016). [Um balanço das políticas do governo Lula para a educação superior: continuidade e ruptura](https://www.scielo.br/j/rsocp/a/4BhqdWbbvKRGRKPBwhH3QQN). Revista de Sociologia e Política, 24, 113-126.
+
+⁷ Pereira, T. I., & da Silva, L. F. S. C. (2010). [As políticas públicas do Ensino superior no governo Lula: expansão ou democratização?](https://seer.ufrgs.br/index.php/debates/article/view/16316/10573) Revista Debates, 4(2), 10-10.
+
+⁸ Programa das Nações Unidas. O que é o IDHM? Disponível em :  < https://www.undp.org/pt/brazil/o-que-%C3%A9-o-idhm > Acesso em: 24 de outubro de 2022.
+
+⁹ Atlas do Desenvolvimento Humano no Brasil. Disponível em :  < http://www.atlasbrasil.org.br/ > Acesso em: 24 de outubro de 2022.
+
