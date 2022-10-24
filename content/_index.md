@@ -1,7 +1,7 @@
 ---
 title: "Tainá Rocha"
 subtitle: ""
-description: "Olá, sejam bem-vindes! Neste blog você encontrar conteúdos relacionado a biodiversidade, mudanças globais, bioinformática, ciência de dados, estatística programação em R e Phyton. <br>
+description: "Bem-vindo! Neste blog, você encontra conteúdos relacionados à biodiversidade, mudanças globais, bioinformática, ciência de dados, estatística e programação em R (#rstat) <br>
 [English](https://tainaweb-en.netlify.app/), [Português](https://tainaweb-pt.netlify.app/)" 
 images:
   - img/home_2.jpg
