@@ -31,7 +31,7 @@ Figura 1. Resultado do candidato vencedor por municípios brasileiros no primeir
 <br>
 <br>
 
-Sem nenhum cuidado ou traquejo, Bolsonaro atribuiu o resultado ao analfabetismo do povo nordestino e após a infeliz declaração, ataques preconceituosos e xingamentos emergiram pelas redes sociais contra os nordestinos. No entanto, os dados do Índice de Desenvolvimento Humano Municipal (IDHM) contam uma outra história. E ao que tudo indica, nordestinos principalmente, votam sabiamente.
+Sem nenhum cuidado ou traquejo, Bolsonaro atribuiu o resultado do primeiro turno ao analfabetismo do povo nordestino e após a infeliz declaração, ataques preconceituosos e xingamentos emergiram pelas redes sociais contra os nordestinos. No entanto, os dados do Índice de Desenvolvimento Humano Municipal (IDHM) contam uma outra história. E ao que tudo indica, nordestinos principalmente, votam sabiamente.
 <br>
 <br>
  
