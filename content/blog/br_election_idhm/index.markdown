@@ -62,7 +62,7 @@ Figura 3. IDHM por municípios nos anos 2000 e 2010. O índice varia de 0 a 1, q
 </p>
 
 #### Um voto de gratidão
-<p style="text-align: justify;"> Sou nascida e criada em Belém do Pará, assim como minha mãe e avó materna. Filha de pai nordestino (piauiense) e avós paternos  igualmente nordestinos. Ingressei em 2006 na Universidade Federal do Pará (licenciatura biologia), no campus do interior (Bragança-PA),  onde também fiz mestrado em 2010 (biologia ambiental). Segui para doutorado (zoologia) pelo Museu Paraense Emílio Goeldi em 2013, em Belém na capital.  Sou parte da estatística que é fruto das políticas públicas do Governo Lula. Dia 30 de Outubro de 2022 eu poderia dizer que é a minha razão (imparcial), baseada em dados e estatísticas, que votará pela democracia. Mas tenho uma gratidão enorme por Lula, uma dia quero dizer isso pessoalmente a ele. </p>
+<p style="text-align: justify;"> Sou nascida e criada em Belém do Pará, assim como minha mãe e avó materna. Filha de pai nordestino (piauiense) e avós paternos  igualmente nordestinos. Ingressei em 2006 na Universidade Federal do Pará (licenciatura biologia), no campus do interior (Bragança-PA),  onde também fiz mestrado em 2010 (biologia ambiental). Segui para o doutorado (zoologia) pelo Museu Paraense Emílio Goeldi em 2013, em Belém na capital.  Sou parte da estatística que é fruto das políticas públicas do Governo Lula. Dia 30 de Outubro de 2022 eu poderia dizer que é a minha razão (imparcial), baseada em dados e estatísticas, que votará pela democracia. Mas tenho uma gratidão enorme por Lula, por isso meu voto é dele;  espero que um dia eu possa dizer isso pessoalmente a ele. </p>
 
 
 ### Referências
