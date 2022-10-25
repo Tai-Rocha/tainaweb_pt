@@ -42,8 +42,11 @@ Figura 2. Declações pejorativas de Bolsonaro. Imagem obtida no site [The Intec
 <br>
 <p style="text-align: justify;">Norte e Nordeste foram marcadas pelos menores índices de desenvolvimento humano (IDH e IDHM) do Brasil, evidenciando o descaso e falta de políticas públicas nestas regiões (Fig. 3). Os baixos índices de IDH/IDHM sofreram mudanças  importantes ao longo do governo do ex presidente Lula, principalmente nestas regiões (Fig. 2), reflexo das muitas  políticas públicas que beneficiaram Norte e Nordeste. Programas como fome zero³, bolsa família³,  aceleração do crescimento  (PAC) ⁴ , além das universidades e institutos federais criados⁶ ⁷ entre outras políticas públicas, mudaram a vida de muitos brasileiros. Apesar das distorções midiáticas e fake news, os feitos do governo Lula à qualidade vida da população foram evidentes o suficiente para manter seu favoritismo.</p>
 <br>
+
 <img src="featured.png" width="2150" />
-Figura 3. IDHM por municípios nos anos 2000 e 2010. 
+<br>
+
+Figura 3. IDHM por municípios nos anos 2000 e 2010. Dados do [Atlas do Brasil](http://www.atlasbrasil.org.br/consulta) obtidos nos censos do [IBGE](https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-2020-censo4.html?=&t=destaques) 
 <br>
 
 ### Outras curiosidades
