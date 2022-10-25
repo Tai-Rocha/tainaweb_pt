@@ -18,7 +18,7 @@ layout: single
 
 ### Eleições presidenciais e dados do Índice de Desenvolvimento Humano Municipal (IDHM) 
 
-O Brasil está diante de uma das eleições mais importantes da história de sua República. Assim como em outros lugares do mundo, nossa democracia é ameaçada pela onda global neofascista. Aqui, o representante deste projeto de poder antidemocrático é Jair Messias Bolsonaro, que ao longo dos últimos quatro anos atuou como um antiestadista, negando a pandemia, menosprezando milhares de brasileiros que perderam familiares e entes queridos. Além de tudo, é conhecidamente um presidente negacionista da ciência, atuando de forma criminosa nos temas científicos ambientais¹ ². 
+<p style="text-align: justify;"> O Brasil está diante de uma das eleições mais importantes da história de sua República. Assim como em outros lugares do mundo, nossa democracia é ameaçada pela onda global neofascista. Aqui, o representante deste projeto de poder antidemocrático é Jair Messias Bolsonaro, que ao longo dos últimos quatro anos atuou como um antiestadista, negando a pandemia, menosprezando milhares de brasileiros que perderam familiares e entes queridos. Além de tudo, é conhecidamente um presidente negacionista da ciência, atuando de forma criminosa nos temas científicos ambientais¹ ². </p>
 
 Felizmente, um grande número de brasileiros é contra o projeto de poder bolsonarista. Os resultados do primeiro turno mostraram a força do ex presidente Luis Inácio Lula da Silva (Lula) em grande parte da região Norte e principalmente na região Nordeste, onde teve a maioria dos votos nos municípios (Fig. 1).
 <br>
