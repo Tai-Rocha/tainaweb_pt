@@ -1,7 +1,7 @@
 ---
 title: "O que dizem os dados da região Nordeste e Norte ?"
 subtitle: "Um voto sábio"
-excerpt: "Eleições Presidenciais 2022"
+excerpt: "Eleições Presidenciais 2022 e IDHM"
 date: 2022-10-24
 author: "Tainá Rocha"
 draft: false
