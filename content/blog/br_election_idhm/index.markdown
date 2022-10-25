@@ -46,7 +46,7 @@ Figura 2. Declações pejorativas de Bolsonaro. Imagem obtida no site [The Intec
 <img src="featured.png" width="2150" />
 <br>
 
-Figura 3. IDHM por municípios nos anos 2000 e 2010. O índice varia de 0 a 1, quanto mais próximo de 1, melhores as condições nos quesitos educação, longevidade e renda⁸ ⁹. No mapa, cores quentes como vermelho mostram os valores mais baixos; cores frias como azul-escuro mostram os maiores valores. Dados do [Atlas do Brasil](http://www.atlasbrasil.org.br/consulta) baseados nos censos do [IBGE](https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-2020-censo4.html?=&t=destaques) 
+Figura 3. IDHM por municípios nos anos 2000 e 2010. O índice varia de 0 a 1, quanto mais próximo de 1, melhores as condições nos quesitos educação, longevidade e renda⁸ ⁹. No mapa, cores quentes como vermelho mostram os valores mais baixos; cores frias como azul-escuro mostram os maiores valores. Dados do [Atlas do Brasil](http://www.atlasbrasil.org.br/consulta) baseados nos censos do [IBGE](https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-2020-censo4.html?=&t=destaques).
 <br>
 
 ### Outras curiosidades
