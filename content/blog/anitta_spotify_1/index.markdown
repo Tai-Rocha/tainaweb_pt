@@ -18,9 +18,11 @@ layout: single
 
 ## bem-vindx a primeira postagem da seção blog! 
 
-Esta semana foi marcada por um importante fato, principalmente para comunidade artística brasileira, mas que contempla e alegra a todo Brasil! A cantora Anitta atingiu a primeira posição do Spotify, uma das plataformas de streaming de áudio e mídia mais usadas mundialmente! Anitta é a primeira mulher latina (e brasileira) a atingir essa posição no ranking global do Spotify.
+<p style="text-align: justify;">Esta semana foi marcada por um importante fato, principalmente para comunidade artística brasileira, mas que contempla e alegra a todo Brasil! A cantora Anitta atingiu a primeira posição do Spotify, uma das plataformas de streaming de áudio e mídia mais usadas mundialmente! Anitta é a primeira mulher latina (e brasileira) a atingir essa posição no ranking global do Spotify.</p>
 
-Por isso, nesta postagem resolvi explorar de forma bem básica (por enquanto) algumas ferramentas para análise de dados musicais usando o R, com o objetivo de identificar a trajetória da popularidade das músicas da Anitta ao longo do tempo, e que fatores podem estar relacionados com a popularidade (lembrando que correlação não é causalidade). Essa análise só foi possível porque esses dados existem e podem ser acessados pelo [Spotify for developers](https://developer.spotify.com/), a API do Spotify, onde podemos solicitar informações que são devolvidas através de metadados JSON com os dados de artistas, álbuns faixas, diretamente do Spotify Data Catalog. Também é possível obter dados de usuário, como listas de reprodução e músicas que o usuário salva na biblioteca. Em postagens futuras, na seção de tutoriais, pretendo fazer um passo a posso de como criar uma conta e gerar as credenciais e um outro tutorial completo de como fazer essas análises em R.   
+<p style="text-align: justify;">Por isso, nesta postagem resolvi explorar de forma bem básica (por enquanto) algumas ferramentas para análise de dados musicais usando o R, com o objetivo de identificar a trajetória da popularidade das músicas da Anitta ao longo do tempo, e que fatores podem estar relacionados com a popularidade (lembrando que correlação não é causalidade). </p>
+
+Essa análise só foi possível porque esses dados existem e podem ser acessados pelo [Spotify for developers](https://developer.spotify.com/), a API do Spotify, onde podemos solicitar informações que são devolvidas através de metadados JSON com os dados de artistas, álbuns faixas, diretamente do Spotify Data Catalog. Também é possível obter dados de usuário, como listas de reprodução e músicas que o usuário salva na biblioteca. Em postagens futuras, na seção de tutoriais, pretendo fazer um passo a posso de como criar uma conta e gerar as credenciais e um outro tutorial completo de como fazer essas análises em R.
 
 #### Analisando as informações da Playlist "This Is Aniita" do Spotify
 
@@ -36,7 +38,7 @@ A tabela abaixo sintetiza algumas estatísticas do score de popularidade (0 a 10
 ## # A tibble: 1 × 4
 ##   Média Mediana `Desvio Padrão` `Coeficiente de Variação`
 ##   <dbl>   <dbl>           <dbl>                     <dbl>
-## 1  57.5      59            14.7                     0.255
+## 1  51.1    52.5            13.3                     0.260
 ```
 Uma vez que o score de popularidade varia de 0 a 100,  a média nos revela uma popularidade boa, acima de 50 (57.5).
 
@@ -52,36 +54,11 @@ Já o histograma nos revela alguns detalhes a mais do que a média. A maioria da
 #### Músicas mais populares atualmente 
 Considerando score maior que 80
 
-<table>
- <thead>
-  <tr>
-   <th style="text-align:left;"> Música </th>
-   <th style="text-align:right;"> Popularidade </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;"> Envolver </td>
-   <td style="text-align:right;"> 96 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Boys Don't Cry </td>
-   <td style="text-align:right;"> 86 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> NO CHÃO NOVINHA </td>
-   <td style="text-align:right;"> 85 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Envolver Remix </td>
-   <td style="text-align:right;"> 83 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Faking Love (feat. Saweetie) </td>
-   <td style="text-align:right;"> 81 </td>
-  </tr>
-</tbody>
-</table>
+
+|Música   | Popularidade|
+|:--------|------------:|
+|Envolver |           83|
+|La Loto  |           82|
 
 #### Popularidade das  músicas ao longo dos anos 
 <img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" />

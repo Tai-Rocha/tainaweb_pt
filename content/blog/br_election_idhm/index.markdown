@@ -33,8 +33,7 @@ Figura 1. Resultado do candidato vencedor por municípios brasileiros no primeir
 
 <p style="text-align: justify;">Sem nenhum cuidado ou traquejo, Bolsonaro atribuiu o resultado do primeiro turno ao analfabetismo do povo nordestino e após a infeliz declaração, ataques preconceituosos e xingamentos emergiram pelas redes sociais contra os nordestinos. No entanto, os dados do Índice de Desenvolvimento Humano Municipal (IDHM) contam uma outra história. E ao que tudo indica, nordestinos principalmente, votam sabiamente.</p>
 <br>
-<br>
- 
+
 <img src="intercetp_img_1.png" width="402" />
 <br>
 
@@ -42,17 +41,20 @@ Figura 2. Declações pejorativas de Bolsonaro. Imagem obtida no site [The Intec
 <br>
 <br>
 <p style="text-align: justify;">Norte e Nordeste foram marcadas pelos menores índices de desenvolvimento humano (IDH e IDHM) do Brasil, evidenciando o descaso e falta de políticas públicas nestas regiões (Fig. 3). Os baixos índices de IDH/IDHM sofreram mudanças  importantes ao longo do governo do ex presidente Lula, principalmente nestas regiões (Fig. 2), reflexo das muitas  políticas públicas que beneficiaram Norte e Nordeste. Programas como fome zero³, bolsa família³,  aceleração do crescimento  (PAC) ⁴ , além das universidades e institutos federais criados⁶ ⁷ entre outras políticas públicas, mudaram a vida de muitos brasileiros. Apesar das distorções midiáticas e fake news, os feitos do governo Lula à qualidade vida da população foram evidentes o suficiente para manter seu favoritismo.</p>
-
-### Outras curiosidades
-
-<p style="text-align: justify;">Você sabia que IDHM é um ajuste metodológico do IDH, adaptado ao Brasil? ⁸ ⁹ Ele avalia os dados de cada município considerando saúde, educação e renda. Quer entender melhor esses índices? Veja as referências 8 e 9. </p>
-
-<br>
 <br>
 <img src="featured.png" width="2150" />
 Figura 3. IDHM por municípios nos anos 2000 e 2010. 
+<br>
 
-<p style="text-align: justify;"> Sou nascida e criada em Belém do Pará, assim como minha mãe e avó materna. Filha de pai nordestino (piauiense) e avós paternos  igualmente nordestinos. Ingressei em 2006 na Universidade Federal do Pará (licenciatura biologia), no campus do interior (Bragança-PA),  onde também fiz mestrado em 2010 (biologia ambiental). Segui para doutorado (zoologia) pelo Museu paraense Emílio Goeldi em 2013 já em Belém na capital.  Sou parte da estatística que é fruto das políticas públicas do Governo Lula. Dia 30 de Outubro de 2022 eu poderia dizer que é a minha razão imparcial, baseada em dados e estatísticas, que votará pela democracia. Mas tenho uma gratidão enorme por Lula, uma dia quero dizer isso pessoalmente a ele. Meu voto é de gratidão. </p>
+### Outras curiosidades
+
+#### IDHM
+
+<p style="text-align: justify;">Você sabia que IDHM é um ajuste metodológico do IDH, adaptado ao Brasil? ⁸ ⁹ Ele avalia os dados de cada município considerando saúde, educação e renda. Quer entender melhor esses índices? Veja as referências 8 e 9. </p>
+<br>
+
+#### Um voto de gratidão
+<p style="text-align: justify;"> Sou nascida e criada em Belém do Pará, assim como minha mãe e avó materna. Filha de pai nordestino (piauiense) e avós paternos  igualmente nordestinos. Ingressei em 2006 na Universidade Federal do Pará (licenciatura biologia), no campus do interior (Bragança-PA),  onde também fiz mestrado em 2010 (biologia ambiental). Segui para doutorado (zoologia) pelo Museu paraense Emílio Goeldi em 2013, em Belém na capital.  Sou parte da estatística que é fruto das políticas públicas do Governo Lula. Dia 30 de Outubro de 2022 eu poderia dizer que é a minha razão imparcial, baseada em dados e estatísticas, que votará pela democracia. Mas tenho uma gratidão enorme por Lula, uma dia quero dizer isso pessoalmente a ele. Meu voto é de gratidão. </p>
 
 
 ### Referências
