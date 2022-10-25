@@ -1,5 +1,5 @@
 ---
-title: "O que dizem os dados eleitoriais da região Nordeste e Norte ?"
+title: "O que dizem os dados da região Nordeste e Norte ?"
 subtitle: "Um voto sábio"
 excerpt: "Eleições Presidenciais 2022"
 date: 2022-10-24
