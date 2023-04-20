@@ -1,7 +1,7 @@
 ---
-title: Contact
+title: Contato
 name: Contact Me Form
-description: "You can **contact me** via email (taina013@gmail.com) or using the aside boxes to know consultant rates, research collaboration, or any other doubts."
+description: "Entre em **contato** via e-mail (taina013@gmail.com) ou pelo formulário ao lado para orçamento de consultorias, colaborações em projetos de pesquisa ou dúvidas."
 date: 2019-02-25T13:38:41-06:00
 draft: false
 url: contact
