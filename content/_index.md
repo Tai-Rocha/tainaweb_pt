@@ -2,7 +2,7 @@
 title: "Bem-vindo!"
 subtitle: ""
 description: " Neste blog, você encontra conteúdos relacionados à biodiversidade, mudanças globais, bioinformática, ciência de dados, estatística e programação em R (#rstat) <br>
-[English](https://tainaweb-en.netlify.app/), [Português](https://tainaweb-pt.netlify.app/)" 
+[English](https://tairocha.netlify.app/), [Português](https://tainarocha.netlify.app/)" 
 images:
   - img/home_profile.jpg
 image_left: true
