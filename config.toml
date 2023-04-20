@@ -150,8 +150,8 @@ enableEmoji = true
     url = "/tutorials/"
     weight = 5 
   [[menu.header]]
-    name = "Contact"
-    title = "Contact"
+    name = "Contato"
+    title = "Contato"
     url = "/contact/"
     weight = 6
 # [[menu.header]]
