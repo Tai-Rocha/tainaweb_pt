@@ -107,7 +107,7 @@ enableEmoji = true
    [[params.social]]
       icon      = "cv" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://tai-rocha.github.io/Tai-Rocha_CV.github.io/"    
+      url       = "https://tai-rocha.github.io/TR_CV_PT.github.io/"    
  [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
