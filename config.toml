@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "violet"
+  theme = "plum"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -125,35 +125,40 @@ enableEmoji = true
 [menu]
   # Configure header
   [[menu.header]]
-    name = "Página Inicial"
-    title = "Página Inicial"
+    name = "Tainá Rocha"
+    title = "Tainá Rocha"
     url = "/"
     weight = 1
-  [[menu.header]]
-    name = "Sobre"
-    title = "Sobre"
-    url = "/about/"
-    weight = 2
   [[menu.header]]
     name = "Blog"
     title = "Blog"
     url = "/blog/"
-    weight = 3
+    weight = 2
   [[menu.header]]
     name = "Projetos"
     title = "Portfólio de Projetos"
     url = "/project/"
-    weight = 4
+    weight = 3
   [[menu.header]]
     name = "Apresentações"
     title = "Apresentações"
     url = "/talk/"
-    weight = 5
+    weight = 4
   [[menu.header]]
     name = "Tutoriais"
     title = "Tutoriais"
     url = "/tutorials/"
-    weight = 6  
+    weight = 5 
+  [[menu.header]]
+    name = "Contact"
+    title = "Contact"
+    url = "/contact/"
+    weight = 6
+# [[menu.header]]
+#    name = "Sobre"
+#    title = "Sobre"
+#    url = "/about/"
+#    weight = 2
     
   # Configure footer  
   [[menu.footer]]
@@ -161,11 +166,11 @@ enableEmoji = true
     title = "License"
     url = "/license/"
     weight = 1
-  [[menu.footer]]
-    name = "Contato"
-    title = "Contato"
-    url = "/contact/"
-    weight = 2
+#  [[menu.footer]]
+#    name = "Contato"
+#    title = "Contato"
+#    url = "/contact/"
+#    weight = 2
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
